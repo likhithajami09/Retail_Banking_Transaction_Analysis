@@ -2,12 +2,6 @@
 
 A MySQL business analytics project: I designed a 7-table retail banking database from an ER diagram and used SQL to analyse customers, accounts, transactions, loans and cards, then turned the results into business recommendations.
 
-**Project presentation (Google Slides):** [PASTE GOOGLE SLIDES LINK HERE]
-**Video walkthrough (LinkedIn):** [PASTE LINKEDIN POST LINK HERE]
-
-## Team
-Likhitha Jami, Vyshnavi Mulle, Naina Patel Yadav
-
 ## Business questions
 1. Who are our customers, and how do segments differ?
 2. How are accounts used and how do branches perform?
